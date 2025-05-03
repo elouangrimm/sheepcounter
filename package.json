@@ -1,0 +1,21 @@
+{
+    "name": "sheep-counter",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@cloudflare/d1": "^1.2.0",
+        "next": "13.x.x",
+        "react": "18.x.x",
+        "react-dom": "18.x.x"
+    },
+    "devDependencies": {
+        "eslint": "8.x.x",
+        "eslint-config-next": "13.x.x"
+    }
+}
